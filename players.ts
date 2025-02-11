@@ -61,7 +61,7 @@ export const players = [
     {
       "id": "3",
       "name": "Andrés Iniesta",
-      "image": "https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/INIESTA%202017-18.jpg",
+      "image": "https://b.fssta.com/uploads/application/soccer/headshots/709.png",
       "era": "legend"
     },
     {
